@@ -1,0 +1,11 @@
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\obj\Debug\Guia2_EP3_Progra1.csprojResolveAssemblyReference.cache
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\obj\Debug\Guia2_EP3_Progra1.MainForm.resources
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\obj\Debug\Guia2_EP3_Progra1.Temperaturas.resources
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\obj\Debug\Guia2_EP3_Progra1.csproj.GenerateResource.Cache
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\bin\Debug\Guia2_EP3_Progra1.exe.config
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\bin\Debug\Guia2_EP3_Progra1.exe
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\bin\Debug\Guia2_EP3_Progra1.pdb
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\obj\Debug\Guia2_EP3_Progra1.exe
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\obj\Debug\Guia2_EP3_Progra1.pdb
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\obj\Debug\Guia2_EP3_Progra1.Visor.resources
+C:\Users\Heriberto\Documents\SharpDevelop Projects\Guia2_EP3_Progra1\Guia2_EP3_Progra1\obj\Debug\Guia2_EP3_Progra1.CajaMensajes.resources
